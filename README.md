@@ -3,6 +3,12 @@
 
 Category: **Machine Learning**
 
+**TEAM MEMBERS:**
+    Mohana.M
+    Mohanapriya.T
+    Ramya.S
+    Swathi priya .M
+
 **Skills Required:**
 Python,Python Web Frame Works,Python For Data Visualization,Data Preprocessing Techniques,Machine Learning,IBM Cloud,IBM Watson Studio,Python-Flask
 
