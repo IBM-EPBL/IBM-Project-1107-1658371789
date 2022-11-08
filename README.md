@@ -1,15 +1,26 @@
 # IBM-Project-1107-1658371789
+
 **University Admit Eligibility Predictor**
 
-Category: **Machine Learning**
+
+Category:
+
+**Machine Learning**
+
 
 **TEAM MEMBERS:**
+
     Mohana.M
+    
     Mohanapriya.T
+    
     Ramya.S
+    
     Swathi priya .M
+    
 
 **Skills Required:**
+
 Python,Python Web Frame Works,Python For Data Visualization,Data Preprocessing Techniques,Machine Learning,IBM Cloud,IBM Watson Studio,Python-Flask
 
 **Project Description:**
