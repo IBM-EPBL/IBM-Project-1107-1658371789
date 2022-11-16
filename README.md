@@ -3,19 +3,14 @@
 **University Admit Eligibility Predictor**
 
 
-Category:
-
-**Machine Learning**
+**Category**:  Machine Learning
 
 
 **TEAM MEMBERS:**
 
     Mohana.M
-    
     Mohanapriya.T
-    
     Ramya.S
-    
     Swathi priya .M
     
 
